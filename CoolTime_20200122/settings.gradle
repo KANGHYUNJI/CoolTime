@@ -1,2 +1,0 @@
-include ':app', 'ProgressUtil', ':progressviewslib'
-rootProject.name='TimerApplication'
