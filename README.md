@@ -33,8 +33,7 @@ QR코드를 읽으면 내 타이머로 세탁기의 시간이 자동으로 이�
 세탁기의 타이머를 구현하기 위해 라즈베리파이에 세그먼트를 연결하여 구성하였다.
 
 ## Result   
-[![video Label](https://img.youtube.com/embed/rt-ju-J1BGk/0.jpg)]
-(https://www.youtube.com/embed/rt-ju-J1BGk)
+[![세탁기 예약 시스템](https://img.youtube.com/vi/rt-ju-J1BGk/0.jpg)](https://www.youtube.com/embed/rt-ju-J1BGk?t=0s)
 
 ## Environment   
 AndoidStudio : 애플리케이션 구현환경   
